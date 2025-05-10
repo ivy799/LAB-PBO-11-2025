@@ -1,6 +1,6 @@
 # LAB-PBO-11-2025
 
-# Repositori Tugas Praktikum Basis Data 2024
+# Repositori Tugas Praktikum OOP 2024
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
