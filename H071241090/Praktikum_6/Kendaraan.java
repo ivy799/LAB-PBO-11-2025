@@ -55,4 +55,5 @@ abstract class Kendaraan  {
     public abstract double hitungPajak(); 
 
     public abstract String getTipeKendaraan();
+
 }
